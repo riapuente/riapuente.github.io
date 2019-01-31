@@ -1,0 +1,33 @@
+h1 {
+    color: lightpink;
+    text-align: center;
+}
+
+h2 {
+    color: palevioletred;
+}
+
+h3 {
+    color: pink;
+}
+
+h4 {
+    text-align: center;
+}
+
+.left {
+    background-color: beige;
+}
+
+body {
+    color: skyblue;
+    background-color: black;
+}
+
+.ul {
+    list-style: none;
+}
+
+a {
+    color: deeppink;
+}
